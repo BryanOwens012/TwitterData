@@ -7,4 +7,8 @@ This is where I store all the gathered Twitter data.
 3. Take that txt, then use included `TwitterUserTweets.jar` to convert the screen names to txts of tweets
 (For each txt of screen names, create a subfolder in folder `tweets` to hold the tweets of those users)
 
+#### Note:
+- `popular_users_followers_ids.txt` used to be called `newids.txt`
+- `popular_users_followers_names.txt` used to be called `newids_out.txt`
+
 Thanks to **zhangxiaoxuan1** and **Bovey Qin** for contributing!
