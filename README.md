@@ -1,7 +1,7 @@
 # TwitterData
 This is where I store all the gathered Twitter data.
 
-** Conversion process: **
+### Conversion process:
 1. Take a txt from folder `ids_raw`, then use included `TwitterIDToName.jar` to convert the IDs to screen names
 2. Place the resulting txt of converted screen names into folder `names`
 3. Take that txt, then use included `TwitterUserTweets.jar` to convert the screen names to txts of tweets
